@@ -24,7 +24,6 @@ Predicts a student's math score using Linear Regression based on their backgroun
 | R² Score | 0.87 |
 | Mean Absolute Error | 4.1 |
 
-> Note: Fill in your actual numbers after running the notebook.
 
 ## How to run
 
